@@ -8,7 +8,7 @@ Here you can download the saved model.
 
 You can use the saved model for predicting. Refer the [colab notebook.](https://colab.research.google.com/drive/1JUhUn_V1kX_00_pUAYV7gGhLB8L_f1rD?usp=sharing)
 
-Dataset used :[ here.](http://www.cell.com/cell/fulltext/S0092-8674(18)30154-5)
+Dataset used :https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
 
 Dataset with usability 8.8 : here.
 
