@@ -6,9 +6,9 @@ Chest X-rays are used for detecting the Pneumonia infection and to locate the in
 
 Here you can download the saved model.
 
-You can use the saved model for predicting. Refer the colab notebook.
+You can use the saved model for predicting. Refer the [colab notebook.](https://colab.research.google.com/drive/1JUhUn_V1kX_00_pUAYV7gGhLB8L_f1rD?usp=sharing)
 
-Dataset used : here.
+Dataset used :[ here.](http://www.cell.com/cell/fulltext/S0092-8674(18)30154-5)
 
 Dataset with usability 8.8 : here.
 
