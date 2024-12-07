@@ -10,8 +10,6 @@ You can use the saved model for predicting. Refer the [colab notebook.](https://
 
 Dataset used :https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
 
-Dataset with usability 8.8 : here.
-
 All the required libraries, dataset link are also mentioned in the Colab notebook.
 
 👉 Reference
